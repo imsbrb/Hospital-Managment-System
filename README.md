@@ -35,12 +35,18 @@ This is a full-stack web application designed to manage emergency patient intake
 ```
 
 DB Project/
-├── app.py                    # Main Flask app
+├── app.py  # Main Flask app
+
 ├── Schema\_Project.sql        # SQL Server schema file
+
 ├── templates/                # HTML templates (Jinja2)
+
 ├── static/                   # CSS, JS, Images
+
 │   ├── css/
+
 │   ├── js/
+
 │   └── images/
 
 ````
